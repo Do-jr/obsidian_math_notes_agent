@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated local test reports
+tools/*_report.md
+
+# Local/private Obsidian data and generated note content
+.obsidian/
+AI Drafts/
+AI Handoffs/
+AI generated/
+
+# Local environment and secrets
+.env
+*.env
+secrets.*
+*.key
+
+# Archives generated for sharing
+*.zip
+
